@@ -1,0 +1,67 @@
+    Statistician: A professional who collects, analyzes, and interprets data to make informed decisions or draw conclusions in various fields.
+
+    Auctioneer: An individual who conducts auctions, facilitating the sale of items or property to the highest bidder.
+
+    Photographer: A person who captures and creates images through the use of a camera, often for artistic, journalistic, or commercial purposes.
+
+    Geologist: A scientist who studies the Earth's structure, composition, and processes, including the study of rocks, minerals, and natural formations.
+
+    Accountant: A financial professional responsible for managing financial records, preparing statements, and providing financial advice and services.
+
+    Physicist: A scientist who specializes in the study of physics, which involves understanding the fundamental principles governing the behavior of matter and energy.
+
+    Dentist: A medical professional who specializes in the diagnosis, treatment, and care of oral health, including teeth and gums.
+
+    Psychologist: A mental health professional who studies and provides therapy for mental and emotional disorders and behavioral issues.
+
+    Supervisor: A person in a position of authority who oversees and manages the work of others within an organization or team.
+
+    Mathematician: A person who specializes in the field of mathematics, studying and researching mathematical principles, theories, and applications.
+
+    Designer: An individual who creates and plans the visual or functional aspects of objects, products, or systems, often in fields such as fashion, graphic design, or industrial design.
+
+    Economist: An expert in the study of economics, analyzing economic data, trends, and policies to understand and predict economic behavior.
+
+    Postmaster: A person in charge of managing and overseeing the operations of a postal service or post office.
+
+    Broker: A professional who acts as an intermediary between buyers and sellers in financial markets, real estate transactions, or other industries.
+
+    Chemist: A scientist who studies and works with chemicals, conducting research, and experiments to understand chemical properties and reactions.
+
+    Librarian: A person responsible for managing and organizing a library's collection of books, materials, and information resources.
+
+    Scientist: A person engaged in scientific research and inquiry, seeking to expand knowledge and understanding in various fields of study.
+
+    Instructor: A teacher or educator who provides instruction, guidance, and training in a particular subject or skill.
+
+    Pilot: A person trained to operate and navigate aircraft, ensuring safe and efficient flights.
+
+    Administrator: An individual responsible for overseeing and managing the administrative and operational aspects of an organization or institution.
+
+    Architect: A professional who designs and plans buildings, structures, and spaces, considering both aesthetic and functional aspects.
+
+    Surgeon: A medical doctor who specializes in performing surgical procedures to treat injuries, diseases, or conditions.
+
+    Nurse: A healthcare professional who provides patient care, including medical treatment, monitoring, and assistance to patients in various healthcare settings.
+
+    Engineer: A professional who applies scientific and mathematical principles to design, develop, and build systems, structures, and technologies.
+
+    Lawyer: A legal professional who provides legal advice, represents clients in legal matters, and advocates for their interests in legal proceedings.
+
+    Physician: A medical doctor who diagnoses, treats, and provides healthcare to patients, often specializing in specific medical fields.
+
+    Manager: A person responsible for planning, organizing, and directing the activities and resources of an organization or department.
+
+    Official: An individual holding a position of authority or responsibility, often within a government or governing body.
+
+    Doctor: A title for a person who holds a doctoral degree, such as a medical doctor (M.D.) or a Ph.D., indicating expertise in a specific field.
+
+    Professor: A senior academic educator and researcher who teaches and conducts research at a college or university.
+
+    Student: An individual who is enrolled in an educational institution and actively pursuing a course of study.
+
+    Judge: A legal authority who presides over court proceedings, interprets and applies the law, and makes legal decisions.
+
+    Teacher: An educator who imparts knowledge, skills, and guidance to students in a classroom or educational setting.
+
+    Author: A person who writes and creates literary works, including books, novels, essays, or articles.

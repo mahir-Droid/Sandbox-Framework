@@ -1,0 +1,29 @@
+	Direction: The alignment or positioning of something with respect to a reference point, which is a key aspect of orientation.
+
+	Navigation: The process of planning and following a course or route, often involving orientation skills to find one's way.
+
+	Compass: A navigational instrument that helps determine direction, providing a reference for orientation.
+
+	Map: A visual representation of geographic or spatial information used for orientation and navigation.
+
+	North: One of the cardinal directions and a critical point of reference in orientation.
+
+	Landmarks: Prominent and recognizable features in the environment used for orientation, such as mountains, buildings, or distinctive natural formations.
+
+	Orientation Session: An organized event or program designed to familiarize individuals with a new environment, workplace, or educational institution.
+
+	Magnetic Field: The region around a magnetic object, such as the Earth's magnetic field, which plays a role in orientation using a compass.
+
+	Geographic Coordinates: A system of latitude and longitude used to specify points on the Earth's surface, aiding in geographical orientation.
+
+	Wayfinding: The process of using visual cues, signage, and other information to navigate and orient oneself within a built environment.
+
+	Topography: The physical features and layout of the land, including elevation and terrain, which influence orientation.
+
+	GPS (Global Positioning System): A satellite-based navigation system that provides precise location and orientation information.
+
+	Cardinal Directions: The four primary compass points of north, south, east, and west, serving as essential references in orientation.
+
+	Orientation Sensor: A device, often found in smartphones, that detects the device's orientation in space, providing data for apps and services.
+
+	Cultural Orientation: The process of learning and adapting to the customs, norms, and values of a specific culture or community.
